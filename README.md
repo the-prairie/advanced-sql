@@ -3,6 +3,7 @@
 
 ## Contents:
 - [Subscription price changes](#subscription-price-changes)
+[Solution](subscription-price-changes/solution/effective_subscription_changes.sql)
 - [Apportioning payments](#apportioning-payments)
 
 ## Subscription price changes
